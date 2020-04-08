@@ -1,0 +1,207 @@
+﻿  CameraFollower.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ColorPalette.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameObjectHSF.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HSFMesh.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\HSFMesh.cpp(148,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HSFShader.cpp
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\HSFShader.cpp(25,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Joystick.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(18,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(18,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(18,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(94,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(95,20): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(96,24): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(164,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(167,27): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(173,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(176,24): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(183,41): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(191,38): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(268,48): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+  PlayerExtension.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(85,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(86,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(327,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(328,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(329,51): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\PlayerExtension.cpp(330,53): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  engine.lib(Transform.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+engine.lib(Transform.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Transform.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Mesh.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Mesh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Shader.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Shader.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Camera.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Camera.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(GameObject.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(GameObject.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(UIManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(UIManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Entity.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Entity.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Terrain.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Terrain.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Audio.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Audio.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Light.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Light.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Settings.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Settings.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(Texture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(Texture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(RenderTexture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(RenderTexture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(PhysicsBody.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(PhysicsBody.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+engine.lib(CollisionStructure.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in CameraFollower.obj
+engine.lib(CollisionStructure.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in CameraFollower.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(xonce.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+GameObjectHSF.obj : error LNK2001: unresolved external symbol _CrtDbgReport
+HSFMesh.obj : error LNK2001: unresolved external symbol _CrtDbgReport
+HSFShader.obj : error LNK2001: unresolved external symbol _CrtDbgReport
+Main.obj : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+HSFMesh.obj : error LNK2001: unresolved external symbol _calloc_dbg
+Main.obj : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _free_dbg
+HSFMesh.obj : error LNK2001: unresolved external symbol _free_dbg
+Main.obj : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+HSFMesh.obj : error LNK2001: unresolved external symbol _malloc_dbg
+Main.obj : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+glfw3.lib(input.obj) : error LNK2001: unresolved external symbol __imp_strncpy
+glfw3.lib(win32_joystick.obj) : error LNK2001: unresolved external symbol __imp_strncpy
+glfw3.lib(window.obj) : error LNK2001: unresolved external symbol __imp_strncpy
+glfw3.lib(input.obj) : error LNK2001: unresolved external symbol __imp_strspn
+glfw3.lib(input.obj) : error LNK2001: unresolved external symbol __imp_realloc
+glfw3.lib(win32_monitor.obj) : error LNK2001: unresolved external symbol __imp_realloc
+glfw3.lib(monitor.obj) : error LNK2001: unresolved external symbol __imp_realloc
+engine.lib(stb_image.obj) : error LNK2001: unresolved external symbol __imp_realloc
+glfw3.lib(context.obj) : error LNK2001: unresolved external symbol __imp___stdio_common_vsscanf
+engine.lib(Mesh.obj) : error LNK2001: unresolved external symbol __imp_fminf
+engine.lib(RenderTexture.obj) : error LNK2001: unresolved external symbol __imp_log2f
+engine.lib(CollisionStructure.obj) : error LNK2001: unresolved external symbol __imp_fmaxf
+engine.lib(stb_image.obj) : error LNK2001: unresolved external symbol __imp_feof
+libcpmtd.lib(_tolower.obj) : error LNK2001: unresolved external symbol _wcsdup_dbg
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: unresolved external symbol _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _realloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\x64\Debug\Nihilnauts - Multiverse Aces.exe : fatal error LNK1120: 15 unresolved externals

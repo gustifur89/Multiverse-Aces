@@ -1,0 +1,48 @@
+﻿  Main.cpp
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(52,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(89,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(92,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\Documents\GitHub\Engine\Noise.h(93,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\TerrainAux.h(58,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(21,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(21,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(21,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(120,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(121,20): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(122,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(226,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(229,27): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(235,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(238,24): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(245,41): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(253,38): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\Nihilnauts - Multiverse Aces\Main.cpp(387,48): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+  Generating code
+  4 of 2491 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Nihilnauts - Multiverse Aces.vcxproj -> C:\Users\Sean Coleman\source\repos\Nihilnauts - Multiverse Aces\x64\Release\Nihilnauts - Multiverse Aces.exe
